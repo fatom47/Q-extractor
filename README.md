@@ -11,5 +11,5 @@ Q-extractor is Excel macro (VBA) automation solution. There are three lists in a
 
 ![obrazek](https://user-images.githubusercontent.com/3974820/190404266-f32756f7-da1e-42ba-ba3e-66bfca83b248.png)
  
- ThisWorkbook macro clear In/Output sheets
- Sheet1 macro automate the process of data selection
+ ThisWorkbook macro clear Input and Output sheets.
+ Sheet1 macro automate the process of data selection.
