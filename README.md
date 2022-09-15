@@ -7,9 +7,10 @@ It is very time-consuming to fulfill such requirements manually. Therefore, scri
 Q-extractor is Excel macro (VBA) automation solution. There are three lists in a workbook.
 1. Settings - see the picture below
 2. Input - fill it with whole data set
-3. Output - data for capability SW
+3. Output - data for capability SW (i.e. Q-DAS)
 
 ![obrazek](https://user-images.githubusercontent.com/3974820/190404266-f32756f7-da1e-42ba-ba3e-66bfca83b248.png)
  
- ThisWorkbook macro clear Input and Output sheets.
- Sheet1 macro automate the process of data selection.
+Macros:
+- ***ThisWorkbook*** macro clear Input and Output sheets when spreadsheet starts and closes
+- ***Sheet1 (Settings)*** macro automates the process of data selection accroding to the settings in the 1st sheet
